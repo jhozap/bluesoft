@@ -2,7 +2,8 @@
 
 ## Pasos
 
-[url del Repositorio en GitHub](https://github.com/jhozap/bluesoft)
+[url del Repositorio en GitHub Backend](https://github.com/jhozap/bluesoft-Backend.git)
+[url del Repositorio en GitHub Frontend](https://github.com/jhozap/-bluesoft-Frontend.git)
 
 - Descargar fuentes del repositorio (clonar repositorio)
     - Fuentes del API .Net Core
